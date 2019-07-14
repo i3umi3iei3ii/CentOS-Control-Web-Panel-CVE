@@ -14,6 +14,8 @@ The vulnerability allow
 <br>
 
 ### Discovered by
-Pongtorn Angsuchotmetee<br>
-Nissana Sirijirakal<br>
+```
+Pongtorn Angsuchotmetee
+Nissana Sirijirakal
 Narin Boonwasanarak
+```
