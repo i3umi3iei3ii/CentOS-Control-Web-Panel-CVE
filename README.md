@@ -6,7 +6,7 @@ Finally, all of vulnerabilities are mentioned here have been fixed on CWP versio
 <br>
 
 <i>"
-This repository is purely intended for educational and research purposes only. We do NOT want any one to use any information from this repository to attack or do illegal  thing (refer to the laws in your country). So that, any actions and or activities related to the materials from this repository is solely your responsibility. If you don’t agree, you are not allowed to access this repository, leave this repository immediately "
+This repository is purely intended for educational and research purposes only. We do NOT want anyone to use any information from this repository to attack or do illegal  thing (refer to the laws in your country). So that, any actions and or activities related to the materials from this repository is solely your responsibility. If you don’t agree, you are not allowed to access this repository, leave this repository immediately "
 </i>
 
 <br>
