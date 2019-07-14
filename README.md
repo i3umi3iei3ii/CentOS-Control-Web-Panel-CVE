@@ -3,12 +3,12 @@ On last ...
 
 <br>
 
-### Root Privilege Escalation - [CVE-2019-13359](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13359.md) 
+### [CVE-2019-13359](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13359.md) - Root Privilege Escalation
 The vulnerability allow 
 
 <br>
 
-### User Enumeration via HTTP response message - [CVE-2019-13383](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13383.md)
+### [CVE-2019-13383](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13383.md) - User Enumeration via HTTP response message
 
 <br>
 
