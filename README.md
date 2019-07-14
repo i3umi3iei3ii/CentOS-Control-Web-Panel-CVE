@@ -12,7 +12,7 @@ The vulnerability allow
 
 <br>
 
-### [CVE-2019-13360](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13360.md)
+### [CVE-2019-13360](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13360.md) - Bypass Login
 
 <br>
 
