@@ -3,11 +3,13 @@ On last ...
 
 <br>
 
-### [CVE-2019-13359](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13359.md) - Root Privilege Escalation
+## Vulnerabilities List
 
-### [CVE-2019-13360](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13360.md) - Bypass Login
+[### []CVE-2019-13359](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13359.md) - Root Privilege Escalation
 
-### [CVE-2019-13383](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13383.md) - User Enumeration via HTTP response message
+[CVE-2019-13360](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13360.md) - Bypass Login
+
+[CVE-2019-13383](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13383.md) - User Enumeration via HTTP response message
 
 ### Discovered by
 ```
