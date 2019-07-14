@@ -13,7 +13,7 @@ On last ...
 
 <br>
 
-### Discovered by
+## Discovered by
 ```
 Pongtorn Angsuchotmetee
 Nissana Sirijirakal
