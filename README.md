@@ -1,5 +1,7 @@
 ## CentOS Control Web Panel (version 0.9.8.836 - 0.9.8.847)
-On last ...
+On July 29, 2019 our team started to find vulnerability on CentOS Control Web Panel (CWP) version 0.9.8.836, and we found some critical vulnerabilites. Some of the vulnerabilities we found can be chained to compromise the server from anonymous user to be root user. After our team reported to CWP, they responsed us quickly and show us that they really care about security issue on their product.
+
+Finally, all of vulnerabilities are mentioned here have been fixed on CWP version 0.9.8.848
 
 <br>
 
