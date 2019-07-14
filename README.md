@@ -1,3 +1,5 @@
+## CentOS Control Web Panel
+
 ### [CVE-2019-13359](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13359.md)
 The vulnerability allow 
 
@@ -8,3 +10,12 @@ The vulnerability allow
 <br>
 
 ### [CVE-2019-13360](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13360.md)
+
+<br>
+
+### Discovered by
+```
+Pongtorn Angsuchotmetee
+Nissana Sirijirakal
+Narin Boonwasanarak
+```
