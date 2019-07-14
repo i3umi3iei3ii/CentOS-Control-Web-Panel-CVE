@@ -1,4 +1,4 @@
-## CVE-2019-13359 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+## [CVE-2019-13359](https://www.google.com "Google's Homepage")
 The vulnerability allow 
 
 <br>
