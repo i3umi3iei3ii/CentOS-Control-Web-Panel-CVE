@@ -3,11 +3,13 @@ On July 29, 2019 our team started to find vulnerability on CentOS Control Web Pa
 
 Finally, all of vulnerabilities are mentioned here have been fixed on CWP version 0.9.8.848
 
+<br>
+
 <i>"
 This repository is purely intended for educational and research purposes only. We do NOT want any one to use any information from this repository to attack or do iiligal thing (refer to the laws in your country).So, any actions and or activities related to the materials from this Website is solely your responsibility. If you don’t agree, you are not allowed to access this repository, leave this site immediately."
 </i>
 
-<br><br>
+<br>
 
 ## Vulnerabilities List
 
