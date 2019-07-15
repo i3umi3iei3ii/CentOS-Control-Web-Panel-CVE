@@ -23,7 +23,7 @@ This repository is purely intended for educational and research purposes only. W
 
 Comming soon...
 
-<i>The software is seperated to be 2 parts, root panel and user panel. If you try to install the old version by changing software version in the installation script, you will get install previous version of root panel but the user panel is only available for the lastest version (cannot specific version to download user panel)</i>
+<i>The software is seperated to be 2 parts, root panel and user panel. If you try to install the old version by changing software version in the installation script, you will get install previous version of root panel but the user panel is only available for the lastest version (cannot specific version to download)</i>
 
 <br>
 
