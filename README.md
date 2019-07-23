@@ -21,7 +21,9 @@ This repository is purely intended for educational and research purposes only. W
 
 [CVE-2019-13383](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13383.md) - User Enumeration via HTTP response message
 
-[CVE-2019-13385](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13385.md) - User Enumeration via login.log
+[CVE-2019-13385](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13385.md) - Active User Enumeration via login.log
+
+CVE-2019-XXXXX Coming soon...
 
 <br>
 
