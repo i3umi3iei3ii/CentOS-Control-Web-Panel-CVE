@@ -23,6 +23,10 @@ This repository is purely intended for educational and research purposes only. W
 
 [CVE-2019-13385](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13385.md) - Active User Enumeration via login.log
 
+[CVE-2019-13386](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13386.md) - Command Execution
+
+[CVE-2019-13387](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13387.md) - Reflected Cross Site Scripting
+
 CVE-2019-XXXXX Coming soon...
 
 <br>
