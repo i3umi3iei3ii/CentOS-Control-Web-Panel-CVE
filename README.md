@@ -29,6 +29,8 @@ This repository is purely intended for educational and research purposes only. W
 
 [CVE-2019-14245](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-14245.md) - Arbitrary database dropping
 
+[CVE-2019-14246](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-14246.md) - Reset other phpMyadmin password
+
 CVE-2019-XXXXX Coming soon...
 
 <br>
