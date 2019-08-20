@@ -35,6 +35,8 @@ This repository is purely intended for educational and research purposes only. W
 
 [CVE-2019-13476](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13476.md) - Cross Site Scripting (Stored) through New Mail Box
 
+[CVE-2019-13477](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13477.md) - CSRF through New Mail Box for change password user root
+
 CVE-2019-XXXXX Coming soon...
 
 
