@@ -1,7 +1,7 @@
 ## CentOS Control Web Panel (version 0.9.8.836 - 0.9.8.847)
 On June 29, 2019 our team started to find vulnerability on CentOS Control Web Panel (CWP) version 0.9.8.836, and we found some critical vulnerabilites. Some of the vulnerabilities we found can be chained to compromise the server from anonymous user to be root user. After our team reported to CWP, they responsed us quickly.
 
-Finally, all of vulnerabilities are mentioned here have been fixed on CWP version 0.9.8.848
+Finally, all of vulnerabilities are mentioned here have been fixed on CWP version 0.9.8.848 (CVE-2019-133xx) and version 0.9.8.866 (CVE-2019-142xx)
 
 <br>
 
@@ -23,11 +23,22 @@ This repository is purely intended for educational and research purposes only. W
 
 [CVE-2019-13385](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13385.md) - Active User Enumeration via login.log
 
-[CVE-2019-13386](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13386.md) - Command Execution
+[CVE-2019-13386](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13386.md) - Remote Command Execution
 
 [CVE-2019-13387](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13387.md) - Reflected Cross Site Scripting
 
+[CVE-2019-14245](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-14245.md) - Arbitrary database dropping
+
+[CVE-2019-14246](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-14246.md) - Reset other phpMyadmin password
+
+[CVE-2019-13599](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13599.md) - User enumerate through HTTP response time
+
+[CVE-2019-13476](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13476.md) - Cross Site Scripting (Stored) through New Mail Box
+
+[CVE-2019-13477](https://github.com/i3umi3iei3ii/CentOS-Control-Web-Panel-CVE/blob/master/CVE-2019-13477.md) - CSRF through New Mail Box for change password user root
+
 CVE-2019-XXXXX Coming soon...
+
 
 <br>
 
